@@ -14,7 +14,7 @@
 
       <div class="container">
         <div class="navbar-header">
-           <a class="navbar-brand" href="#">Project name</a>
+           <a class="navbar-brand" href="#">LARAVEL_CHIRIAC</a>
         </div>
         <div class="links">
           <a href="https://laravel.com/docs">Docs</a>
