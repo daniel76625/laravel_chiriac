@@ -12,8 +12,10 @@ class IndexController extends Controller
     protected $h2;
 
     public function __construct(){
-        $this->h1 = "Hello, world!";   
-        $this->h2 = "This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.";
+        $this->h1 = "   Mai bun,
+        mai rapid,
+        mai puternic";   
+        $this->h2 = "StarNet este o companie privată, 100% capital local, fondată în anul 2003, fiind unul dintre liderii pieței de tehnologii informaționale și comunicații electronice din Republica Moldova.";
         
     }
     public function index(){
